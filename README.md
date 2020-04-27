@@ -1,3 +1,3 @@
-# hello-world
+# Burrows and Badgers
 
-So totally new to all of this. Excited about trying it out and learning new stuff. Main focus is character sheets for roll20.
+This is the workspace for my Burrows and badgers character sheets for roll20.
